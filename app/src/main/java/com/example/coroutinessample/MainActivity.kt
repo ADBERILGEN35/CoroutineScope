@@ -32,9 +32,10 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     /**
      * Network call
+     *
+     * 2 second delay
      *
      * @return String
      */
